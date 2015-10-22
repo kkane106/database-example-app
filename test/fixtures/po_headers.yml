@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  PONumber: 1
+  vendor_id: 1
+  store_number: 1
+  order_date: 2015-10-21
+  tax_rate: 1
+
+two:
+  PONumber: 1
+  vendor_id: 1
+  store_number: 1
+  order_date: 2015-10-21
+  tax_rate: 1

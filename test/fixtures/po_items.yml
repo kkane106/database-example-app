@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  po_number: 1
+  vendor_part_number: 1
+  quantity: 1
+  unit_cost: 1
+  product_id: 1
+
+two:
+  po_number: 1
+  vendor_part_number: 1
+  quantity: 1
+  unit_cost: 1
+  product_id: 1

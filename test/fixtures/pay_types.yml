@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  pay_type_code: MyString
+  pay_type_name: MyString
+  minimum_wage: 1
+
+two:
+  pay_type_code: MyString
+  pay_type_name: MyString
+  minimum_wage: 1

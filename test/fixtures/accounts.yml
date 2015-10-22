@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  account_name: MyString
+  account_type_code: MyString
+  person_id: 1
+  credit_limit: 1
+  balance: 1.5
+  street: MyString
+  city: MyString
+  state: MyString
+
+two:
+  account_name: MyString
+  account_type_code: MyString
+  person_id: 1
+  credit_limit: 1
+  balance: 1.5
+  street: MyString
+  city: MyString
+  state: MyString

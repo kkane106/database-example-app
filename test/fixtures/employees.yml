@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  store_number: 1
+  pay_type_code: MyString
+  pay_amount: 1
+  title: MyString
+  supervisor_id: 1
+
+two:
+  store_number: 1
+  pay_type_code: MyString
+  pay_amount: 1
+  title: MyString
+  supervisor_id: 1
