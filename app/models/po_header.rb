@@ -1,4 +1,4 @@
-class PoHeader < ActiveRecord::Base
+class POHeader < ActiveRecord::Base
 	belongs_to :store, class_name: "Store",
 	                   foreign_key: "store_number"
 	belongs_to :vendor
