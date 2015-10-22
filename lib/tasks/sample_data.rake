@@ -35,14 +35,36 @@ namespace :db do
     end
     
     counter = 1
+    store = 1
+    supers = [4,4,4,3,3,3,3,2,2,2,2,1,1,1,0]
     15.times do |n|
-      store_number = Faker::Number.between(1,4)
+      supervisor_id = supers.pop
+      store_number = 0
+      if supers[supers.length-1] == 0
+        store_number = 0
+      elsif supers[supers.length-1] == 1
+         store_number = store
+         store = store + 1
+      else
+         store_number = Employee.find(supervisor_id).store_number
+      end
       person_id = counter
       counter = counter + 1
-      pay_type_code = Faker::Number.between(1,3)
-      pay_amount = PayType.find(pay_type_code).minimum_wage
-      title = PayType.find(pay_type_code).pay_type_name
-      supervisor_id = Faker::Number.between(1,4)
+      pay_type_name = ""
+      case supervisor_id
+        when 0
+          pay_type_name = "Super"
+        when 1
+          pay_type_name = "Troll"
+        when 2..4
+          pay_type_name = "Grunt"
+        else
+          pay_type_name = "unkown"
+      end
+      pay_type = PayType.where(pay_type_name: pay_type_name).first
+      pay_amount = pay_type.minimum_wage
+      pay_type_code = pay_type.id
+      title = pay_type_name
       Employee.create!(:store_number => store_number,
                        :person_id => person_id,
                        :pay_type_code => pay_type_code,
