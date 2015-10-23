@@ -18,7 +18,7 @@ namespace :db do
          Vendor.all
         ]
     def create_path object
-    	path = "./lib/tasks/#{object.class.name.downcase}.xml"
+    	path = "./lib/assets/#{object.class.name.downcase}.xml"
       return path
     end
 
