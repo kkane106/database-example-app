@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product-categories type="array">
+  <product-category>
+    <id type="integer">1</id>
+    <product-category-code>Din</product-category-code>
+    <product-category-name>dining</product-category-name>
+    <created-at type="dateTime">2015-10-23T01:18:28Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:28Z</updated-at>
+  </product-category>
+  <product-category>
+    <id type="integer">2</id>
+    <product-category-code>Liv</product-category-code>
+    <product-category-name>living</product-category-name>
+    <created-at type="dateTime">2015-10-23T01:18:28Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:28Z</updated-at>
+  </product-category>
+  <product-category>
+    <id type="integer">3</id>
+    <product-category-code>Gar</product-category-code>
+    <product-category-name>garage</product-category-name>
+    <created-at type="dateTime">2015-10-23T01:18:28Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:28Z</updated-at>
+  </product-category>
+  <product-category>
+    <id type="integer">4</id>
+    <product-category-code>Kit</product-category-code>
+    <product-category-name>kitchen</product-category-name>
+    <created-at type="dateTime">2015-10-23T01:18:28Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:28Z</updated-at>
+  </product-category>
+  <product-category>
+    <id type="integer">5</id>
+    <product-category-code>Bat</product-category-code>
+    <product-category-name>bath</product-category-name>
+    <created-at type="dateTime">2015-10-23T01:18:28Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:28Z</updated-at>
+  </product-category>
+  <product-category>
+    <id type="integer">6</id>
+    <product-category-code>Bed</product-category-code>
+    <product-category-name>bed</product-category-name>
+    <created-at type="dateTime">2015-10-23T01:18:28Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:28Z</updated-at>
+  </product-category>
+</product-categories>

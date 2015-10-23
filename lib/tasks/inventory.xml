@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventories type="array">
+  <inventory>
+    <id type="integer">1</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">109</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">1</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">2</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">148</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">2</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">3</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">141</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">3</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">4</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">94</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">4</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">5</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">73</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">5</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">6</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">95</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">6</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">7</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">101</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">7</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">8</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">135</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">8</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">9</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">71</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">9</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">10</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">137</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">10</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">11</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">120</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">11</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">12</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">110</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">12</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">13</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">67</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">13</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">14</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">71</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">14</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">15</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">145</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">15</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">16</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">83</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">16</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">17</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">128</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">17</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">18</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">61</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">18</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">19</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">118</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">19</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">20</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">145</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">20</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">21</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">149</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">21</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">22</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">126</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">22</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">23</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">149</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">23</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">24</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">104</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">24</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">25</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">55</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">25</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">26</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">121</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">26</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">27</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">131</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">27</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">28</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">60</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">28</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">29</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">101</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">29</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">30</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">148</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">30</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">31</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">64</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">31</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">32</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">126</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">32</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">33</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">128</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">33</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">34</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">64</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">34</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">35</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">145</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">35</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">36</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">126</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">36</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">37</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">74</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">37</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">38</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">70</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">38</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">39</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">125</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">39</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">40</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">105</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">40</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">41</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">129</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">41</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">42</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">148</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">42</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">43</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">69</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">43</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">44</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">98</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">44</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">45</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">90</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">45</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">46</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">139</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">46</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">47</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">89</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">47</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">48</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">108</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">48</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">49</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">125</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">49</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">50</id>
+    <store-number type="integer">1</store-number>
+    <quantity-on-hand type="integer">102</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">50</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">51</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">71</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">1</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">52</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">124</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">2</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">53</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">104</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">3</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">54</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">50</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">4</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">55</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">74</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">5</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">56</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">66</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">6</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">57</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">134</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">7</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">58</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">147</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">8</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">59</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">76</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">9</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">60</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">107</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">10</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">61</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">146</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">11</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">62</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">140</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">12</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">63</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">136</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">13</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">64</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">124</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">14</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">65</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">63</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">15</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">66</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">112</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">16</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">67</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">97</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">17</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">68</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">64</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">18</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">69</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">54</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">19</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">70</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">140</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">20</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">71</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">109</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">21</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">72</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">126</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">22</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">73</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">133</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">23</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">74</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">92</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">24</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">75</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">56</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">25</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">76</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">144</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">26</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">77</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">75</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">27</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">78</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">104</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">28</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">79</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">86</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">29</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">80</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">128</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">30</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">81</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">122</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">31</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">82</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">99</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">32</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">83</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">112</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">33</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">84</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">83</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">34</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">85</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">128</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">35</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">86</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">74</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">36</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">87</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">95</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">37</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">88</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">132</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">38</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">89</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">70</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">39</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">90</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">67</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">40</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">91</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">97</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">41</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">92</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">78</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">42</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">93</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">73</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">43</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">94</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">76</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">44</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">95</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">71</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">45</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">96</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">149</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">46</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">97</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">93</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">47</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">98</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">129</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">48</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">99</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">97</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">49</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">100</id>
+    <store-number type="integer">2</store-number>
+    <quantity-on-hand type="integer">131</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">50</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">101</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">58</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">1</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">102</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">126</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">2</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">103</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">125</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">3</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">104</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">109</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">4</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">105</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">118</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">5</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">106</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">79</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">6</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">107</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">141</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">7</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">108</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">126</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">8</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">109</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">81</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">9</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">110</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">148</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">10</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">111</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">100</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">11</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">112</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">83</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">12</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">113</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">136</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">13</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">114</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">145</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">14</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">115</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">78</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">15</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">116</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">98</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">16</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">117</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">137</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">17</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">118</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">117</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">18</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">119</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">102</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">19</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">120</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">102</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">20</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">121</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">73</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">21</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">122</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">100</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">22</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">123</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">127</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">23</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">124</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">55</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">24</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">125</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">71</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">25</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">126</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">84</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">26</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">127</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">120</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">27</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">128</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">129</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">28</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">129</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">138</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">29</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">130</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">80</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">30</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">131</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">138</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">31</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">132</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">129</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">32</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">133</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">100</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">33</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">134</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">133</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">34</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">135</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">56</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">35</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">136</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">100</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">36</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">137</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">77</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">37</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">138</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">109</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">38</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">139</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">67</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">39</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">140</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">73</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">40</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">141</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">122</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">41</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">142</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">93</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">42</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">143</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">76</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">43</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">144</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">139</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">44</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">145</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">60</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">45</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">146</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">57</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">46</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">147</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">76</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">47</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">148</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">105</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">48</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">149</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">124</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">49</product-id>
+  </inventory>
+  <inventory>
+    <id type="integer">150</id>
+    <store-number type="integer">3</store-number>
+    <quantity-on-hand type="integer">148</quantity-on-hand>
+    <quantity-on-order type="integer">0</quantity-on-order>
+    <created-at type="dateTime">2015-10-23T01:18:29Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:29Z</updated-at>
+    <product-id type="integer">50</product-id>
+  </inventory>
+</inventories>

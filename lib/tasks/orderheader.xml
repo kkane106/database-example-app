@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order-headers type="array">
+  <order-header>
+    <id type="integer">1</id>
+    <invoice-number type="integer">654754</invoice-number>
+    <store-number type="integer">2</store-number>
+    <person-id type="integer">20</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">20</account-number>
+    <amount-due type="float">48.38</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">2</id>
+    <invoice-number type="integer">325633</invoice-number>
+    <store-number type="integer">1</store-number>
+    <person-id type="integer">16</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">7</account-number>
+    <amount-due type="float">23.63</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">3</id>
+    <invoice-number type="integer">260783</invoice-number>
+    <store-number type="integer">6</store-number>
+    <person-id type="integer">18</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">13</account-number>
+    <amount-due type="float">14.16</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">4</id>
+    <invoice-number type="integer">631586</invoice-number>
+    <store-number type="integer">9</store-number>
+    <person-id type="integer">16</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">15</account-number>
+    <amount-due type="float">74.9</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">5</id>
+    <invoice-number type="integer">979133</invoice-number>
+    <store-number type="integer">6</store-number>
+    <person-id type="integer">18</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">20</account-number>
+    <amount-due type="float">60.92</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">6</id>
+    <invoice-number type="integer">821294</invoice-number>
+    <store-number type="integer">8</store-number>
+    <person-id type="integer">6</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">18</account-number>
+    <amount-due type="float">88.98</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">7</id>
+    <invoice-number type="integer">236604</invoice-number>
+    <store-number type="integer">7</store-number>
+    <person-id type="integer">6</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">9</account-number>
+    <amount-due type="float">93.67</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">8</id>
+    <invoice-number type="integer">46782</invoice-number>
+    <store-number type="integer">3</store-number>
+    <person-id type="integer">17</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">4</account-number>
+    <amount-due type="float">41.26</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">9</id>
+    <invoice-number type="integer">425464</invoice-number>
+    <store-number type="integer">7</store-number>
+    <person-id type="integer">10</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">13</account-number>
+    <amount-due type="float">9.02</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">10</id>
+    <invoice-number type="integer">296197</invoice-number>
+    <store-number type="integer">9</store-number>
+    <person-id type="integer">4</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">12</account-number>
+    <amount-due type="float">15.86</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">11</id>
+    <invoice-number type="integer">993056</invoice-number>
+    <store-number type="integer">2</store-number>
+    <person-id type="integer">3</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">16</account-number>
+    <amount-due type="float">88.41</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">12</id>
+    <invoice-number type="integer">547032</invoice-number>
+    <store-number type="integer">3</store-number>
+    <person-id type="integer">9</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">13</account-number>
+    <amount-due type="float">21.28</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">13</id>
+    <invoice-number type="integer">765533</invoice-number>
+    <store-number type="integer">2</store-number>
+    <person-id type="integer">3</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">5</account-number>
+    <amount-due type="float">15.24</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">14</id>
+    <invoice-number type="integer">593897</invoice-number>
+    <store-number type="integer">10</store-number>
+    <person-id type="integer">18</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">7</account-number>
+    <amount-due type="float">67.39</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">15</id>
+    <invoice-number type="integer">686332</invoice-number>
+    <store-number type="integer">5</store-number>
+    <person-id type="integer">10</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">16</account-number>
+    <amount-due type="float">34.2</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">16</id>
+    <invoice-number type="integer">466384</invoice-number>
+    <store-number type="integer">2</store-number>
+    <person-id type="integer">11</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">3</account-number>
+    <amount-due type="float">61.19</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">17</id>
+    <invoice-number type="integer">48717</invoice-number>
+    <store-number type="integer">3</store-number>
+    <person-id type="integer">10</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">18</account-number>
+    <amount-due type="float">98.11</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">18</id>
+    <invoice-number type="integer">431155</invoice-number>
+    <store-number type="integer">1</store-number>
+    <person-id type="integer">17</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">6</account-number>
+    <amount-due type="float">6.51</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">19</id>
+    <invoice-number type="integer">378185</invoice-number>
+    <store-number type="integer">1</store-number>
+    <person-id type="integer">5</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">14</account-number>
+    <amount-due type="float">91.92</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">20</id>
+    <invoice-number type="integer">721098</invoice-number>
+    <store-number type="integer">8</store-number>
+    <person-id type="integer">4</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">8</account-number>
+    <amount-due type="float">8.33</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">21</id>
+    <invoice-number type="integer">746735</invoice-number>
+    <store-number type="integer">8</store-number>
+    <person-id type="integer">16</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">8</account-number>
+    <amount-due type="float">38.91</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">22</id>
+    <invoice-number type="integer">153734</invoice-number>
+    <store-number type="integer">5</store-number>
+    <person-id type="integer">18</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">16</account-number>
+    <amount-due type="float">71.04</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">23</id>
+    <invoice-number type="integer">905245</invoice-number>
+    <store-number type="integer">5</store-number>
+    <person-id type="integer">19</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">17</account-number>
+    <amount-due type="float">52.74</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">24</id>
+    <invoice-number type="integer">284126</invoice-number>
+    <store-number type="integer">1</store-number>
+    <person-id type="integer">15</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">16</account-number>
+    <amount-due type="float">0.08</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">25</id>
+    <invoice-number type="integer">613464</invoice-number>
+    <store-number type="integer">1</store-number>
+    <person-id type="integer">18</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">9</account-number>
+    <amount-due type="float">3.27</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">26</id>
+    <invoice-number type="integer">686844</invoice-number>
+    <store-number type="integer">7</store-number>
+    <person-id type="integer">10</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">17</account-number>
+    <amount-due type="float">39.59</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">27</id>
+    <invoice-number type="integer">143847</invoice-number>
+    <store-number type="integer">9</store-number>
+    <person-id type="integer">9</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">18</account-number>
+    <amount-due type="float">76.48</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">28</id>
+    <invoice-number type="integer">117427</invoice-number>
+    <store-number type="integer">10</store-number>
+    <person-id type="integer">10</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">2</account-number>
+    <amount-due type="float">67.39</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">29</id>
+    <invoice-number type="integer">812057</invoice-number>
+    <store-number type="integer">5</store-number>
+    <person-id type="integer">14</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">7</account-number>
+    <amount-due type="float">56.81</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">30</id>
+    <invoice-number type="integer">672753</invoice-number>
+    <store-number type="integer">10</store-number>
+    <person-id type="integer">17</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">7</account-number>
+    <amount-due type="float">74.29</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">31</id>
+    <invoice-number type="integer">313784</invoice-number>
+    <store-number type="integer">5</store-number>
+    <person-id type="integer">3</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">10</account-number>
+    <amount-due type="float">40.27</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">32</id>
+    <invoice-number type="integer">294502</invoice-number>
+    <store-number type="integer">5</store-number>
+    <person-id type="integer">4</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">20</account-number>
+    <amount-due type="float">95.37</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">33</id>
+    <invoice-number type="integer">405072</invoice-number>
+    <store-number type="integer">1</store-number>
+    <person-id type="integer">13</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">9</account-number>
+    <amount-due type="float">16.36</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">34</id>
+    <invoice-number type="integer">115548</invoice-number>
+    <store-number type="integer">5</store-number>
+    <person-id type="integer">18</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">18</account-number>
+    <amount-due type="float">42.69</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">35</id>
+    <invoice-number type="integer">832041</invoice-number>
+    <store-number type="integer">4</store-number>
+    <person-id type="integer">20</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">7</account-number>
+    <amount-due type="float">34.05</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">36</id>
+    <invoice-number type="integer">418787</invoice-number>
+    <store-number type="integer">6</store-number>
+    <person-id type="integer">20</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">9</account-number>
+    <amount-due type="float">55.77</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">37</id>
+    <invoice-number type="integer">885633</invoice-number>
+    <store-number type="integer">4</store-number>
+    <person-id type="integer">12</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">11</account-number>
+    <amount-due type="float">78.98</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">38</id>
+    <invoice-number type="integer">383638</invoice-number>
+    <store-number type="integer">9</store-number>
+    <person-id type="integer">2</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">5</account-number>
+    <amount-due type="float">82.95</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">39</id>
+    <invoice-number type="integer">685815</invoice-number>
+    <store-number type="integer">2</store-number>
+    <person-id type="integer">9</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">11</account-number>
+    <amount-due type="float">45.36</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">40</id>
+    <invoice-number type="integer">271236</invoice-number>
+    <store-number type="integer">6</store-number>
+    <person-id type="integer">10</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">16</account-number>
+    <amount-due type="float">89.72</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">41</id>
+    <invoice-number type="integer">869320</invoice-number>
+    <store-number type="integer">9</store-number>
+    <person-id type="integer">14</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">1</account-number>
+    <amount-due type="float">14.57</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">42</id>
+    <invoice-number type="integer">552222</invoice-number>
+    <store-number type="integer">4</store-number>
+    <person-id type="integer">5</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">20</account-number>
+    <amount-due type="float">51.06</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">43</id>
+    <invoice-number type="integer">728788</invoice-number>
+    <store-number type="integer">4</store-number>
+    <person-id type="integer">6</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">19</account-number>
+    <amount-due type="float">91.19</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">44</id>
+    <invoice-number type="integer">451529</invoice-number>
+    <store-number type="integer">3</store-number>
+    <person-id type="integer">5</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">19</account-number>
+    <amount-due type="float">33.08</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">45</id>
+    <invoice-number type="integer">476888</invoice-number>
+    <store-number type="integer">7</store-number>
+    <person-id type="integer">18</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">17</account-number>
+    <amount-due type="float">27.65</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">46</id>
+    <invoice-number type="integer">490214</invoice-number>
+    <store-number type="integer">3</store-number>
+    <person-id type="integer">7</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">12</account-number>
+    <amount-due type="float">33.78</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">47</id>
+    <invoice-number type="integer">165850</invoice-number>
+    <store-number type="integer">2</store-number>
+    <person-id type="integer">4</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">16</account-number>
+    <amount-due type="float">53.47</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">48</id>
+    <invoice-number type="integer">628658</invoice-number>
+    <store-number type="integer">6</store-number>
+    <person-id type="integer">3</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">14</account-number>
+    <amount-due type="float">32.38</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">49</id>
+    <invoice-number type="integer">34369</invoice-number>
+    <store-number type="integer">4</store-number>
+    <person-id type="integer">16</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">1</account-number>
+    <amount-due type="float">54.14</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+  <order-header>
+    <id type="integer">50</id>
+    <invoice-number type="integer">411882</invoice-number>
+    <store-number type="integer">3</store-number>
+    <person-id type="integer">16</person-id>
+    <order-date type="date" nil="true"/>
+    <est-delivery-date type="date" nil="true"/>
+    <delivery-date type="date" nil="true"/>
+    <account-number type="integer">13</account-number>
+    <amount-due type="float">15.12</amount-due>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </order-header>
+</order-headers>

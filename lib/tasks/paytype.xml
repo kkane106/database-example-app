@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pay-types type="array">
+  <pay-type>
+    <id type="integer">1</id>
+    <pay-type-code nil="true"/>
+    <pay-type-name>unknown</pay-type-name>
+    <minimum-wage type="integer">0</minimum-wage>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </pay-type>
+  <pay-type>
+    <id type="integer">2</id>
+    <pay-type-code nil="true"/>
+    <pay-type-name>Super</pay-type-name>
+    <minimum-wage type="integer">50000</minimum-wage>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </pay-type>
+  <pay-type>
+    <id type="integer">3</id>
+    <pay-type-code nil="true"/>
+    <pay-type-name>Troll</pay-type-name>
+    <minimum-wage type="integer">22000</minimum-wage>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </pay-type>
+  <pay-type>
+    <id type="integer">4</id>
+    <pay-type-code nil="true"/>
+    <pay-type-name>Grunt</pay-type-name>
+    <minimum-wage type="integer">18000</minimum-wage>
+    <created-at type="dateTime">2015-10-23T01:18:27Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:27Z</updated-at>
+  </pay-type>
+</pay-types>

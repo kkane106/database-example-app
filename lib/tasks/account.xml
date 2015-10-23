@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accounts type="array">
+  <account>
+    <id type="integer">1</id>
+    <account-name>Lan</account-name>
+    <account-type-code>1</account-type-code>
+    <person-id type="integer" nil="true"/>
+    <credit-limit type="integer">10000</credit-limit>
+    <balance type="float">0.0</balance>
+    <street>43439 Stroman Mill</street>
+    <city>North Federicoport</city>
+    <state>KS</state>
+    <created-at type="dateTime">2015-10-23T01:18:28Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:28Z</updated-at>
+    <customer-id type="integer">8</customer-id>
+  </account>
+  <account>
+    <id type="integer">2</id>
+    <account-name>Dub</account-name>
+    <account-type-code>1</account-type-code>
+    <person-id type="integer" nil="true"/>
+    <credit-limit type="integer">10000</credit-limit>
+    <balance type="float">0.0</balance>
+    <street>43439 Stroman Mill</street>
+    <city>North Federicoport</city>
+    <state>KS</state>
+    <created-at type="dateTime">2015-10-23T01:18:28Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:28Z</updated-at>
+    <customer-id type="integer">5</customer-id>
+  </account>
+  <account>
+    <id type="integer">3</id>
+    <account-name>Col</account-name>
+    <account-type-code>2</account-type-code>
+    <person-id type="integer" nil="true"/>
+    <credit-limit type="integer">10000</credit-limit>
+    <balance type="float">0.0</balance>
+    <street>43439 Stroman Mill</street>
+    <city>North Federicoport</city>
+    <state>KS</state>
+    <created-at type="dateTime">2015-10-23T01:18:28Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:28Z</updated-at>
+    <customer-id type="integer">12</customer-id>
+  </account>
+  <account>
+    <id type="integer">4</id>
+    <account-name>Saw</account-name>
+    <account-type-code>2</account-type-code>
+    <person-id type="integer" nil="true"/>
+    <credit-limit type="integer">10000</credit-limit>
+    <balance type="float">0.0</balance>
+    <street>43439 Stroman Mill</street>
+    <city>North Federicoport</city>
+    <state>KS</state>
+    <created-at type="dateTime">2015-10-23T01:18:28Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:28Z</updated-at>
+    <customer-id type="integer">2</customer-id>
+  </account>
+  <account>
+    <id type="integer">5</id>
+    <account-name>Lan</account-name>
+    <account-type-code>2</account-type-code>
+    <person-id type="integer" nil="true"/>
+    <credit-limit type="integer">10000</credit-limit>
+    <balance type="float">0.0</balance>
+    <street>43439 Stroman Mill</street>
+    <city>North Federicoport</city>
+    <state>KS</state>
+    <created-at type="dateTime">2015-10-23T01:18:28Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:28Z</updated-at>
+    <customer-id type="integer">8</customer-id>
+  </account>
+  <account>
+    <id type="integer">6</id>
+    <account-name>Sch</account-name>
+    <account-type-code>2</account-type-code>
+    <person-id type="integer" nil="true"/>
+    <credit-limit type="integer">10000</credit-limit>
+    <balance type="float">0.0</balance>
+    <street>43439 Stroman Mill</street>
+    <city>North Federicoport</city>
+    <state>KS</state>
+    <created-at type="dateTime">2015-10-23T01:18:28Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:28Z</updated-at>
+    <customer-id type="integer">6</customer-id>
+  </account>
+  <account>
+    <id type="integer">7</id>
+    <account-name>Lan</account-name>
+    <account-type-code>2</account-type-code>
+    <person-id type="integer" nil="true"/>
+    <credit-limit type="integer">10000</credit-limit>
+    <balance type="float">0.0</balance>
+    <street>43439 Stroman Mill</street>
+    <city>North Federicoport</city>
+    <state>KS</state>
+    <created-at type="dateTime">2015-10-23T01:18:28Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:28Z</updated-at>
+    <customer-id type="integer">8</customer-id>
+  </account>
+  <account>
+    <id type="integer">8</id>
+    <account-name>Bau</account-name>
+    <account-type-code>2</account-type-code>
+    <person-id type="integer" nil="true"/>
+    <credit-limit type="integer">10000</credit-limit>
+    <balance type="float">0.0</balance>
+    <street>43439 Stroman Mill</street>
+    <city>North Federicoport</city>
+    <state>KS</state>
+    <created-at type="dateTime">2015-10-23T01:18:28Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:28Z</updated-at>
+    <customer-id type="integer">20</customer-id>
+  </account>
+  <account>
+    <id type="integer">9</id>
+    <account-name>Dub</account-name>
+    <account-type-code>1</account-type-code>
+    <person-id type="integer" nil="true"/>
+    <credit-limit type="integer">10000</credit-limit>
+    <balance type="float">0.0</balance>
+    <street>43439 Stroman Mill</street>
+    <city>North Federicoport</city>
+    <state>KS</state>
+    <created-at type="dateTime">2015-10-23T01:18:28Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:28Z</updated-at>
+    <customer-id type="integer">5</customer-id>
+  </account>
+  <account>
+    <id type="integer">10</id>
+    <account-name>Erd</account-name>
+    <account-type-code>2</account-type-code>
+    <person-id type="integer" nil="true"/>
+    <credit-limit type="integer">10000</credit-limit>
+    <balance type="float">0.0</balance>
+    <street>43439 Stroman Mill</street>
+    <city>North Federicoport</city>
+    <state>KS</state>
+    <created-at type="dateTime">2015-10-23T01:18:28Z</created-at>
+    <updated-at type="dateTime">2015-10-23T01:18:28Z</updated-at>
+    <customer-id type="integer">11</customer-id>
+  </account>
+</accounts>
