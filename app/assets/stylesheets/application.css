@@ -14,3 +14,45 @@
  *= require_tree ../../../vendor/assets/stylesheets/.
  *= require_self
  */
+
+.header {
+	color:#70DBDB;
+	font-size: 2em;
+}
+
+.menu-item {
+
+	color:#68838B;
+	margin-top: 40px;
+	font-weight: bold;
+	margin-bottom: 5px;
+	text-align: left;
+}
+
+.nav-container {
+	/*border-style: solid;*/
+	text-align: center;
+	border-bottom: thin solid #70DBDB;
+	background-color: #FFF;
+}
+
+.container {
+	
+}
+
+#banner-image{
+	position: absolute;
+	left:0px;
+	right: 0px;
+	width: 100%;
+	max-width: 1400px;
+}
+
+.home-page {
+}
+
+.banner-container {
+}
+.content-section {
+	clear: both;
+}
