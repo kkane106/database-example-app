@@ -15,8 +15,13 @@ namespace :db do
   		end
   	end
 
+    #create hash_object from the xml
   	hash_object = Hash.from_xml(xml)
-  	p hash_object
+    # call create on an object, pass all of the person elements from the converted
+    # xml to be created
+    # repeat this with all objects
+    Person.create(hash_object["people"]["person"])
+  	
 
 
   end
